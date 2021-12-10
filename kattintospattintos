@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    
+    <Title>Első weboldalam (nem első)</Title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <h1>Teszt oldal</h1>
+    <p> <a href="https://miskolc.hu/">Miskolc</a> a megyei jogú város Magyarország északkeleti részén, a Bükk-vidék keleti lejtőinél. Az Észak-Magyarországi régió fővárosa és legnagyobb települése. Borsod-Abaúj-Zemplén megye és a Miskolci járás székhelye. A megye lakosságának negyede <a href="https://miskolc.hu/">Miskolcon</a> él</p>
+ <a href="https://miskolc.hu/"> <img src="https://sonepar-innovationlab.com/wp-content/uploads/2019/06/20190625-SP-bloghead-Miskolc.jpg" alt="miskolc város" srcset=""> </a>
+
+</body>
+</html>
